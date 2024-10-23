@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/todoAndNote-keeper/static/css/main.1535c761.css",
-    "main.js": "/todoAndNote-keeper/static/js/main.2cd91620.js",
+    "main.js": "/todoAndNote-keeper/static/js/main.b074de18.js",
     "static/js/453.ac79db8d.chunk.js": "/todoAndNote-keeper/static/js/453.ac79db8d.chunk.js",
     "index.html": "/todoAndNote-keeper/index.html",
     "main.1535c761.css.map": "/todoAndNote-keeper/static/css/main.1535c761.css.map",
-    "main.2cd91620.js.map": "/todoAndNote-keeper/static/js/main.2cd91620.js.map",
+    "main.b074de18.js.map": "/todoAndNote-keeper/static/js/main.b074de18.js.map",
     "453.ac79db8d.chunk.js.map": "/todoAndNote-keeper/static/js/453.ac79db8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1535c761.css",
-    "static/js/main.2cd91620.js"
+    "static/js/main.b074de18.js"
   ]
 }
