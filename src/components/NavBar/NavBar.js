@@ -5,7 +5,7 @@ function NavBar() {
   return (
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
       <div className="container-fluid">
-        <Link className="navbar-brand" to="/">Utility Apps</Link> {/* Use Link with the correct 'to' prop */}
+        <Link className="navbar-brand" to="/todoAndNote-keeper">Utility Apps</Link> {/* Use Link with the correct 'to' prop */}
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
