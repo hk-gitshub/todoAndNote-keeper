@@ -15,12 +15,12 @@ function App() {
   return (
     <div>
       <Provider store={store}>
-        <BrowserRouter>
+        <BrowserRouter basename="/todoAndNote-keeper">
         <Routes>
-          <Route path="" element={<Home />}>
+          <Route path="/" element={<Home />}>
             
           </Route>
-          <Route path="todo"
+          <Route path="/todo"
           element={
             <Fragment>
               <NavBar />
@@ -29,9 +29,8 @@ function App() {
               <TodoList />
             </Fragment>
           }>
-
           </Route>
-          <Route path="notes"
+          <Route path="/notes"
           element={
             <Fragment>
                <NavBar />

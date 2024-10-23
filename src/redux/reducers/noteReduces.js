@@ -3,7 +3,7 @@ import { ADD_NOTE, DELETE_NOTE } from "../actions/noteActions";
 const initialState = {
     notes: [
         {
-            text: "today we are learning react ",
+            text: "use redux for complex app",
             createdOn: new Date()
         },
         {
